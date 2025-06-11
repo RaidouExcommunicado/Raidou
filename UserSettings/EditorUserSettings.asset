@@ -6,12 +6,21 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 5505515656500c0a590c597a11275d4410154a7d7a2c70327e7f4864e3b3663e
+      value: 0752575e500d585d5a5b5827132059444f161d2b297d7f682e7d4a35e3b5356e
       flags: 0
     RecentlyUsedSceneGuid-1:
       value: 5552505f0053580d5e565f724525094442161a7b2e7b20342b284e62b2e63261
       flags: 0
     RecentlyUsedSceneGuid-2:
+      value: 0203035651575b0c0b0f0e201674064444154a7c7d7a73627d7b1931b3e2633e
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5505515656500c0a590c597a11275d4410154a7d7a2c70327e7f4864e3b3663e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 010752565c065e0f5f0b5d2749745c44404f417c752c2035747b4f37b6b36469
+      flags: 0
+    RecentlyUsedSceneGuid-5:
       value: 0503015107500b02550b0a7b48205d444f151b2f7c7f7e33297a1c35bbe66261
       flags: 0
     RecentlyUsedScenePath-0:
@@ -35,6 +44,9 @@ EditorUserSettings:
     RecentlyUsedScenePath-6:
       value: 22424703114646680e0b0227036c72111f19352f223d68252320092a
       flags: 0
+    UIToolkit.EnableEventDebugger:
+      value: 2550581500
+      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
@@ -52,4 +64,6 @@ EditorUserSettings:
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
   m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
